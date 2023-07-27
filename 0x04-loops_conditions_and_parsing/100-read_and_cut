@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-
 #read and cut stuff
 
 while read -r name

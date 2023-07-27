@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-
 #fizzbuzz stuf
 
 count=1
