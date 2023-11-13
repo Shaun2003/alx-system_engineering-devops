@@ -18,6 +18,7 @@ path_to_shh_key=$4
 
 scp -o "StrictHostKeyChecking=no" -i "$path_to_ssh_key" "$path_to_file" "$username@$ip:~/"
 
+
 # checking if the transfer was successful
 if [ $? -eq 0 ]
 then
